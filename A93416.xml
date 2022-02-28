@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just account of the horrid contrivance of John Cupper, and Judith Brown, his servant, in poysoning his wife who were tryed at the assizes held at Shrewsbury, the 21st. day of July, 1684 : Cupper to be hang'd in chains, and Judith Brown to be burnt : together with their dying confessions / published by me William Smith, Rector of Bitterly, their minister, to prevent false reports.</title>
+            <author>Smith, William, Rector of Bitterley.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93416</idno>
+            <idno type="STC">Wing S4261A</idno>
+            <idno type="STC">ESTC R42757</idno>
+            <idno type="EEBO-CITATION">38875713</idno>
+            <idno type="OCLC">ocm 38875713</idno>
+            <idno type="VID">152378</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2295:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just account of the horrid contrivance of John Cupper, and Judith Brown, his servant, in poysoning his wife who were tryed at the assizes held at Shrewsbury, the 21st. day of July, 1684 : Cupper to be hang'd in chains, and Judith Brown to be burnt : together with their dying confessions / published by me William Smith, Rector of Bitterly, their minister, to prevent false reports.</title>
+                  <author>Smith, William, Rector of Bitterley.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Robinson, Bookseller in Ludlow,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through, with loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cupper, John, d. 1684.</term>
+               <term>Brown, Judith, d. 1684.</term>
+               <term>Poisoners --  Great Britain.</term>
+               <term>Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152378:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>A JUST ACCOUNT Of the <hi>Horrid Contrivance</hi> OF <hi>John Cupper,</hi> and <hi>Judith Brown</hi> his Servant, In poyſoning his Wife.</p>
+            <p>Who were Tryed at the Aſſizes held at <hi>Shrewsbury,</hi> the 21<hi>ſt.</hi> day of <hi>July,</hi> 1684. <hi>Cupper</hi> to be Hang'd in <hi>Chains,</hi> and <hi>Judith Brown</hi> to be <hi>Burnt.</hi>
+            </p>
+            <p>Together with their Dying Confeſſions.</p>
+            <p>Publiſhed by me <hi>William Smith,</hi> Rector of <hi>Bitterley,</hi> their Miniſter, to prevent falſe Reports.</p>
+            <q>
+               <bibl>Juvenal. Sat. 6.</bibl>
+               <l>Hippomanes carmenque Loquar, coctumque venenum,</l>
+               <l>uxorique datum?</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Robinſon,</hi> Bookſeller in <hi>Ludlow,</hi> MDCLXXXIV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152378:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="3" facs="tcp:152378:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <head>A Juſt Account of the horrid Con<g ref="char:EOLhyphen"/>trivance of <hi>John Cupper,</hi> and <hi>Judith Brown</hi> his Servant, in poy<g ref="char:EOLhyphen"/>ſoning his Wife.</head>
+            <p>
+               <hi>JOHN C<g ref="char:V">Ʋ</g>PPER</hi> was born at <hi>Snitton,</hi> in the Pariſh of <hi>Bitterley,</hi> and a ſhort time educated at the School of <hi>Bitterley;</hi> not making any proficiency in Learning, his Father <hi>Thomas Cupper,</hi> removed him from thence to <hi>Ludlow,</hi> to a Writing-School: Where after he had ſpent ſome time, his Father put him out to ſeveral Services; but not behaving himſelf well in ſome of them, he returned to his Fathers houſe; and afterwards Marryed <hi>Han<g ref="char:EOLhyphen"/>nah</hi> the Daughter of <hi>John Wheeler,</hi> Rector of <hi>Wafers Hopton,</hi> about three Miles diſtant from <hi>Bitterley,</hi> againſt the conſent of her Father and all her Relations. Not long after they were Married, though her Fortune was beyond his Merit: Continual Jars and Quarrels happened betwixt them, in ſo much, that their Neighbours were in daily fear, leſt ſome miſchief ſhould at<g ref="char:EOLhyphen"/>tend their ungodly way of living.</p>
+            <p>
+               <pb n="4" facs="tcp:152378:3"/>
+               <!-- PDF PAGE 24 -->
+At laſt, he with his Servant <hi>Judith Brown,</hi> a notorious Strumpet, contriv'd the Death of this miſerable and unfortunate Woman. They both long debated, how they ſhould accompliſh their wicked deſign, and after ſeveral conſults, they con<g ref="char:EOLhyphen"/>cluded the ſecureſt way to effect it, was by Poyſon.</p>
+            <p>This they attempted for the ſpace of a Month together: and what they thus baſely and wicked<g ref="char:EOLhyphen"/>ly deſign'd, at laſt they brought to paſs.</p>
+            <p>Her Death being ſudden, her Neighbours came and told me that they were afraid, that <hi>John Cup<g ref="char:EOLhyphen"/>per</hi> had made away with his Wife: I told them, that if they did ſuſpect it, (as indeed there was juſt cauſe, by the words they had given out) that they ought to go to the next Juſtice of Peace, for his Warrant to apprehend both <hi>Cupper</hi> and his Servant <hi>Brown;</hi> and after Apprehenſion, to ſend for the Coroner; who ſummoned a Jury at <hi>Bitterly</hi> upon <hi>Aſcenſion</hi> day laſt, and caus'd the Body of the Mur<g ref="char:EOLhyphen"/>thered Perſon to be taken up again, being Buried the Lord's day before. After the Body was viewed, and <hi>Cupper</hi> and his Servant brought to touch the Corps, the Coroner cauſeth them to be ſeparated, and examined them aſunder very ſtrictly; and I muſt needs ſay, with much Prudence and Caution.</p>
+            <p>But they had ſo combin'd together, that for ſome hours they ſtifly denied the Guilt charged againſt them, and their Tales were but little differing one from the other.</p>
+            <p>
+               <pb n="5" facs="tcp:152378:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 24 -->
+At laſt his Servant being removed, whilſt <hi>Cupper</hi> was under a ſecond or third examination, A Far<g ref="char:EOLhyphen"/>mer of the Pariſh, with the Maids Siſter, goes to her, and told her if ſhe would confeſs truly, ſhe might be in ſome hopes of being ſav'd; if not, they were both like to ſuffer together; the Witneſſes that were examined, having Sworn ſo materially againſt them.</p>
+            <p>
+               <hi>Judith Brown</hi> liſtening to this, confeſs'd preſent<g ref="char:EOLhyphen"/>ly that her Maſter and ſhe had poyſon'd her Mi<g ref="char:EOLhyphen"/>ſtreſs, the Farmer and ſome others acquainted the Coroner privately with it; upon that he was re<g ref="char:EOLhyphen"/>moved, and ſhe brought under Examination again, and confeſſed the Fact before the Jury and ſeveral other By-ſtanders, and ſet her hand to the Confeſ<g ref="char:EOLhyphen"/>ſion. She being again removed, <hi>Cupper</hi> was called in, and when he perceived that his Servant had declared it, he likewiſe confeſſed it, and ſet his Hand to his Confeſſion. Upon this they were both the ſame Night ſent towards <hi>Shrewsbury</hi> Gaol, and the next day were ſecured there.</p>
+            <p>During the time of their Impriſonment, I went with two of his Neighbours to viſit him, where we found him ſeemingly not much concern'd; and after ſome little time of Diſcourſe with him, and lamenting the miſerable ſtate and condition, that he had brought himſelf into, I deſired the Jaylor and my Neighbours to withdraw; and diſcourſt him an hour at leaſt by my ſelf. He then utterly
+<pb n="6" facs="tcp:152378:4"/>
+               <!-- PDF PAGE 25 -->denied what he had ſet his Hand unto before, and pleaded, with Tears in his Eyes, his own Inno<g ref="char:EOLhyphen"/>cency; and did not doubt, but at his Tryal he ſhould clear himſelf, and that he was there in Chains by the malice of his next Neighbours. I told him that whatever he did propoſe to himſelf, he would certainly die for this offence, and that poyſoning of his Wife was ſo horrid and diſmal a Crime, that he could have no hopes of Pardon; and therefore perſwaded him what I could to be<g ref="char:EOLhyphen"/>take himſelf to his Prayers and tears day and night, to ſecure, if poſſible the Salvation of his Soul. When I had ſaid what I could to him, I deſired the Jaylor that his Servant might have the Liberty to come to me; he granted it preſently, and when ſhe came, ſhe pleaded her own innocency likewiſe, and though ſhe had put her Hand to her Confeſſion before, yet vow'd ſhe was not Guilty: But I aſ<g ref="char:EOLhyphen"/>ſur'd her, as a little before I had her Maſter, that they would both die for that black and fearful Crime; and deſired and intreated them both, that they would prepare for their Latter End; that their times were but ſhort in this World; and that in a wretched and ſhameful manner they would be cut off: And then I took my leave of them, com<g ref="char:EOLhyphen"/>mending them to the mercy of Almighty God, with my earneſt Prayers and Supplications for them.</p>
+            <p>After I had left them both in tears, they having the conveniency it ſeems, through the favour of the Under-Jaylor, (as ſome of the People in the
+<pb n="7" facs="tcp:152378:4"/>
+               <!-- PDF PAGE 25 -->Town informed me) of coming frequently toge<g ref="char:EOLhyphen"/>ther, He perſwaded his Servant to take the whole upon her, and that if he was acquitted, he would get a Pardon for her.</p>
+            <p>His Servant (as I was acquainted by ſome of my Pariſhioners that heard the Tryal) when ſhe was brought to the Bar before the Honourable Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Street,</hi> one of His Majeſties Judges of Aſ<g ref="char:EOLhyphen"/>ſize for the <hi>Oxford</hi> Circuit, being ask't whether ſhe was Guilty or not, ſhe then pleaded her own Guilt, and her Maſters Innocency; her Maſter continu'd obſtinately denying the Fact; and that he was not in the leaſt Guilty; but the Jury going out upon him, brought him in equally guilty of that Crime, which his Servant had took upon her ſelf, and after that, the day following, Sentence paſt upon them both: <hi>Cupper</hi> to be Hang'd in <hi>Chains</hi> in the <hi>Old Field</hi> near <hi>Ludlow;</hi> and <hi>Judith Brown</hi> to be burnt for poyſoning her Miſtreſs.</p>
+            <p>When ſhe ſaw her ſelf under the Sentence of Condemnation, ſhe pleaded her Belly; and was reſpited till her Delivery, and when ſhe was deli<g ref="char:EOLhyphen"/>vered of a Man Child, which ſhe Father'd upon one <hi>Nott,</hi> her Execution was deferred for a Month or longer. But <hi>Cupper</hi> was brought to be Execu<g ref="char:EOLhyphen"/>ted in the <hi>Old Field</hi> near <hi>Ludlow,</hi> the twenty fourth day of <hi>July.</hi> I met him on the way at <hi>Roger Bur<g ref="char:EOLhyphen"/>ton</hi>'s Houſe in <hi>Onybury,</hi> where the Officers ſtaid a<g ref="char:EOLhyphen"/>bout two hours with him. And after Prayers with this poor condemned Malefactor, I then privately
+<pb n="8" facs="tcp:152378:5"/>
+               <!-- PDF PAGE 26 -->put him upon that which before he had denyed in Priſon, <hi>viz.</hi> The Poyſoning of his Wife, he then confeſſed it preſently, and withal told me, That <hi>Judith Brown</hi> and he had attempted it ſeveral times after his Wife had lain in her Month, and finding that through the ſtrength of her Body, ſhe had workt off ſmall Potions infuſed ſometimes in Milk, and ſometimes in Beer, at laſt they were reſolved to give her a greater quantity of <hi>White Arſenick</hi> in Milk. After ſhe had eaten the Milk, a violent Vomiting and Purging ſeiz'd her, and being very thirſty, called for Water to drink; they thinking her then in a fair way to have their ends, bring her water with more <hi>Arſenick</hi> infuſed in it; and after the drinking of it, being violently torn in her Sto<g ref="char:EOLhyphen"/>mach, a Neighbour coming in accidentally to ſee her, <hi>Cupper</hi>'s Wife told her they had given her her laſt, and ſhe not long after dy'd.</p>
+            <p>After he had thus confeſt his Guilt towards his Wife, I ask't him about the death of his two Chil<g ref="char:EOLhyphen"/>dren; it being reported that he had murthered them; this he denyed, and told me he had never any thoughts of ill towards them; and that the Accident of ſcalding Pitch falling upon one of them, haſtened its end which had troubled him very much; and that the other dyed of a Natural Death, which his Neighbours could not but be well ſatisfied about.</p>
+            <p>Then I enquired of him whether he had been Guilty of ſtealing Sheep upon the <hi>Clee-hill,</hi> or not,
+<pb n="9" facs="tcp:152378:5"/>
+               <!-- PDF PAGE 26 -->having been long ſuſpected: He anſwered, That he was Innocent; and wiſht he had been as Guilt<g ref="char:EOLhyphen"/>leſs towards his Wife, that then he had never come to ſo ſhameful an end, as he was preſently like to do in the view of all his Neighbours and Acquain<g ref="char:EOLhyphen"/>tance. I deſir'd him to tell me truly whether he know of any about the Hill, that were Sheep<g ref="char:EOLhyphen"/>ſtealers, and adviſed him to have a care that he did not die with a Lie in his mouth, or any thing that then might burthen his Conſcience. He told me he would have a care of that; and ſaid he knew of none; only there was a common Report in the Neighbourhood, that there was a Perſon in the Townſhip of <hi>Snitton</hi> given that way, but he knew nothing of it.</p>
+            <p>What relates to the <hi>Scotchman</hi> that was mur<g ref="char:EOLhyphen"/>thered ſome years ſince on the <hi>Clee,</hi> of which he was ſuſpected, I know nothing of, I my ſelf be<g ref="char:EOLhyphen"/>ing but lately ſetled in the Pariſh; and no man in his Wits can think that I could charge him with that I never heard of till ſince the Execution of the Criminal, nor did he mention the leaſt title of it to me.</p>
+            <p>All he further confeſt to me, was, that he had had Carnal knowledge of his Servant <hi>Judith</hi> twice the Month before his Wife was brought to Bed, and though ſhe was with Child, yet ſhe was not ſo by him, but by another that was converſant with her before.</p>
+            <p>
+               <pb n="10" facs="tcp:152378:6"/>
+               <!-- PDF PAGE 27 -->
+And now in Contemplation of approaching Death and Judgment, with tears at the Gibbet he bewails this wicked Act of poyſoning his Wife, and all other ſins that he was guilty of, and with a heart ſwell'd with the dreadful thoughts of his ſad Condition, repeats that excellent Prayer for Condemned Malefactors, written by Dr. <hi>Patrick</hi> in his <hi>Devout Chriſtian.</hi>
+            </p>
+            <p>When he had ended that Prayer, after a Pſalm, I joyned with him in another, and then riſing up, the Chains were preſently faſtened to his Body, then in another ſhort Prayer he deſired that God would eaſe his diſturbed mind, his wounded and dejected Soul, heartily praying that God would eaſe his broken heart, hoping in his Goodneſs, that now crying and bewailing his ſins, God would hear him; and then going up the Ladder about the middle, he turn'd to the People, acknow<g ref="char:EOLhyphen"/>ledged his faults, for which he ſuffered, and begg'd of them to pray for him, that his Soul might be ſaved, and begg'd Young and Old to take warn<g ref="char:EOLhyphen"/>ing by him, and was Turn'd off.</p>
+            <p>The one and twentieth of <hi>Auguſt, Judith Brown</hi> was Burnt at <hi>Shrewsbury,</hi> where ſhe confeſt (as appears by Captain <hi>Reignolds</hi> Paper ſent me) ſhe conſented with her Maſter to poyſon her Miſtreſs, and her Maſter was the cauſe of bringing her to that unhappy end; deſiring that all would take Example by her juſt and ſhameful death, and was ſo conſum'd to Aſhes in a dreadful Bed of Flames.</p>
+            <p>
+               <pb n="11" facs="tcp:152378:6"/>
+               <!-- PDF PAGE 27 -->
+Thus both underwent the due puniſhment of their hainous Crimes contriv'd and executed upon a poor and an unhappy Wretch, a Wife to the one, and a Miſtreſs to the other.</p>
+            <p>Let me deſire every one to examine himſelf to the bottom, touching all crying ſins, particularly touching Cruelty. God himſelf is rigorous in the ſcrutiny he makes in any bloody Crimes: As if he would upon occaſion take the Coroners Inqueſt in<g ref="char:EOLhyphen"/>to his own hand, he himſelf maketh inquiſition for Blood.</p>
+            <p>Theſe two Wretches that were juſtly Executed, had time enough after the Fact to have fled from the rigour of the Law, having the opportunity of four or five days to make their Eſcape; but ſur<g ref="char:EOLhyphen"/>priz'd with the Villanouſneſs of the Action, and their Conſciences being harraſt with the ſenſe of Guilt, they could not flee, but Juſtice neceſſarily took hold upon them.</p>
+            <p>It hath paſt into a Proverb long ſince, That <hi>Mur<g ref="char:EOLhyphen"/>der will out,</hi> and the Hiſtory of all Ages affords us wonderful Diſcoveries of it. Wherefore we ought to take warning, and not to ſuffer any revengeful Inclinations to harbour in our minds, no Cruelty to Neighbours, no bloody Practices againſt Parents or Relations: If we give way to theſe things, our hearts becoming hardened through the deceitful<g ref="char:EOLhyphen"/>neſs of ſin, no wonder if the blackeſt Crimes do
+<pb n="12" facs="tcp:152378:7"/>
+               <!-- PDF PAGE 28 -->follow, and one wickedneſs ſlily draw on another. Theſe deſpicable Wretches neglected inſtruction, hated to be reform'd, lived in all manner of Licen<g ref="char:EOLhyphen"/>tiouſneſs, Prophaned the Sabbath, ſlighted Ordi<g ref="char:EOLhyphen"/>nances. The Maſter often engaged in Quarrels, both at home and abroad, would not be perſwaded, but ſtill perſiſted in wickedneſs, and we have ſeen the End, a ſad and a ſhameful End; a way of Dy<g ref="char:EOLhyphen"/>ing abhorr'd by Good men, and the Wicked may tremble at it, and learn to amend their Lives, to be<g ref="char:EOLhyphen"/>come better Chriſtians than they have been for<g ref="char:EOLhyphen"/>merly; which God of His Infinite Mercy grant, through <hi>Jeſus Chriſt</hi> our <hi>Lord.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
